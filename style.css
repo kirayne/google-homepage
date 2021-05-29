@@ -1,0 +1,23 @@
+.nav{
+    display:flex;
+    justify-content: flex-end;
+}
+.logo{
+    text-align: center;
+    margin-top: 300px;
+    width: auto;
+}
+.searchbarcont{
+    margin-top: 20px;
+    text-align: center;
+}
+#searchbar{
+    outline: none;
+    height: 34px;
+    display: inline-block;
+    width: 487px;
+}
+.toplink{
+    margin-left: 5px;
+    margin-right: 5px;
+}
